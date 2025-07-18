@@ -1,0 +1,13 @@
+FROM hf.co/t-tech/T-pro-it-2.0-GGUF:Q2_K
+
+# Оптимизации для RTX 4070 Ti
+PARAMETER num_ctx 4096
+PARAMETER num_gpu 35
+PARAMETER num_thread 8
+PARAMETER temperature 0.1
+PARAMETER top_k 40
+PARAMETER top_p 0.9
+PARAMETER repeat_penalty 1.1
+
+# Системный промпт для классификации
+SYSTEM Ты - эксперт по классификации товаров. Классифицируй товары по категориям: iphone, processors, videocards, motherboards, playstation, nintendo-switch, steam-deck. Отвечай кратко и точно.

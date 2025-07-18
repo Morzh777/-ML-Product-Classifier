@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Intel Core i7-12700K",
+    "category": "процессоры",
+    "price": 35000,
+    "source": "wb"
+  },
+  {
+    "name": "AMD Ryzen 7 5800X",
+    "category": "процессоры",
+    "price": 28000,
+    "source": "wb"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4080",
+    "category": "видеокарты",
+    "price": 120000,
+    "source": "wb"
+  },
+  {
+    "name": "AMD Radeon RX 6800 XT",
+    "category": "видеокарты",
+    "price": 85000,
+    "source": "wb"
+  },
+  {
+    "name": "MSI MPG B550 GAMING EDGE WIFI",
+    "category": "материнские платы",
+    "price": 25000,
+    "source": "wb"
+  },
+  {
+    "name": "ASUS ROG STRIX B660-F GAMING WIFI",
+    "category": "материнские платы",
+    "price": 32000,
+    "source": "wb"
+  },
+  {
+    "name": "iPhone 15 Pro 256GB",
+    "category": "смартфоны",
+    "price": 120000,
+    "source": "wb"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "смартфоны",
+    "price": 140000,
+    "source": "wb"
+  },
+  {
+    "name": "PlayStation 5 Digital Edition",
+    "category": "консоли",
+    "price": 45000,
+    "source": "wb"
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "category": "консоли",
+    "price": 35000,
+    "source": "wb"
+  },
+  {
+    "name": "Б/У процессор Intel Core i5",
+    "category": "процессоры",
+    "price": 5000,
+    "source": "wb"
+  },
+  {
+    "name": "Видеокарта с дефектом",
+    "category": "видеокарты",
+    "price": 15000,
+    "source": "wb"
+  },
+  {
+    "name": "Ремонт материнской платы",
+    "category": "материнские платы",
+    "price": 8000,
+    "source": "wb"
+  },
+  {
+    "name": "Аксессуар для iPhone - чехол",
+    "category": "аксессуары",
+    "price": 1500,
+    "source": "wb"
+  },
+  {
+    "name": "Кабель USB-C для зарядки",
+    "category": "аксессуары",
+    "price": 800,
+    "source": "wb"
+  }
+] 
